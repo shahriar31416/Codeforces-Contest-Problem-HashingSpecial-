@@ -1,0 +1,1 @@
+This repository is for codeforces' coding contest retaled with hashing problems.
